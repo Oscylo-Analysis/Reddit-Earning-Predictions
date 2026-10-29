@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Oscylo</title>
+  <g fill="none" stroke-width="5.5" stroke-linecap="butt" stroke-linejoin="round" shape-rendering="geometricPrecision">
+    <path d="M8.26 28.5A24 24 0 0 1 55.74 28.5C56.2 30.8 56.2 32.8 55.4 34.5C53.2 28.5 51 22.5 47 22.5C42 22.5 39 27.5 35 33.5C31 39.5 27 43.5 22 43.5C16 43.5 12 39 10.5 34.5" stroke="#2557DF"/>
+    <path d="M29.5 33.5C26 28 23.5 23 20 23C15 23 10.5 28 8.26 35.5A24 24 0 0 0 55.74 35.5C55 40 52 43 48 43C43 43 40 40 37 38" stroke="#F4F2EC"/>
+  </g>
+</svg>
